@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Candi Borobudur",
+        "provinsi": "Jawa Tengah",
+        "imageId": "borobudur"
+    },
+    {
+        "nama": "Taman Nasional Komodo",
+        "provinsi": "Nusa Tenggara Timur",
+        "imageId": "komodo"
+    },
+    {
+        "nama": "Raja Ampat",
+        "provinsi": "Papua Barat",
+        "imageId": "raja_ampat"
+    },
+    {
+        "nama": "Danau Toba",
+        "provinsi": "Sumatera Utara",
+        "imageId": "danau_toba"
+    }
+]
